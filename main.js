@@ -31,7 +31,6 @@ targetDivMain.append(mainDiv);
 const targetDivProgress = document.querySelector("body > div.L3eUgb > div.o3j99.ikrT4e.om7nvf")
 
 
-
 // functions 
 function runBrowserCode(url, titleText, description) {
     console.log('inside runBrowserCode with url:' + url)
@@ -50,7 +49,11 @@ function runBrowserCode(url, titleText, description) {
     const snippetDiv = document.createElement('div');
     snippetDiv.classList.add('snippetDiv');
     const snippet = document.createElement('h2');
-    snippet.innerText = (description.innerText).toString();
+    let descriptionText = (description.innerText).toString();
+    while (descriptionText.charCodeAt(0)<65 || descriptionText.charCodeAt(0)>90) {
+        descriptionText = descriptionText.slice(1)
+    }
+    snippet.innerText = descriptionText;
     // cut the length of snippet if too long 
     if (snippet.innerText.length>300) {
         snippet.innerText = snippet.innerText.substring(0, 300)
@@ -97,7 +100,6 @@ function selectRandom(array)
     return array[num];
 }
 
-    
 function fetchSiteDetails(url) {
     let str =  "https://cors-anywhere-drewdunne.herokuapp.com/"
     fetch(str+url)
@@ -132,8 +134,12 @@ function getDescription(doc)
 
 // "https://cors-anywhere-drewdunne.herokuapp.com/"
 
+function determineType(url) {
+    const type = url.slice(45,)
+}
+
 function updateProgress(url) {
-    
+
 }
 
 
