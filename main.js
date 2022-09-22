@@ -23,12 +23,15 @@ progressTrackerDiv.classList.add('progressTrackerDiv');
 
 const titleForProgressTrackerDiv = document.createElement('h1');
 titleForProgressTrackerDiv.innerText = "Your Progress: "
+const progressDivHTML = document.createElement('div')
+
 
 // appending the 2 divs we created 
 const targetDivMain = document.querySelector("body > div.L3eUgb > div.o3j99.qarstb");
 targetDivMain.append(mainDiv);
 
 const targetDivProgress = document.querySelector("body > div.L3eUgb > div.o3j99.ikrT4e.om7nvf")
+targetDivProgress.append(progressTrackerDiv);
 
 
 // functions 
@@ -49,7 +52,7 @@ function runBrowserCode(url, titleText, description) {
     const snippetDiv = document.createElement('div');
     snippetDiv.classList.add('snippetDiv');
     const snippet = document.createElement('h2');
-    let descriptionText = (description.innerText).toString();
+    let descriptionText = (description.innerText).toString().replace('/n', '');
     while (descriptionText.charCodeAt(0)<65 || descriptionText.charCodeAt(0)>90) {
         descriptionText = descriptionText.slice(1)
     }
@@ -135,10 +138,12 @@ function getDescription(doc)
 // "https://cors-anywhere-drewdunne.herokuapp.com/"
 
 function determineType(url) {
-    const type = url.slice(45,)
+    const type = url.slice(45, 48);
+    return type
 }
 
 function updateProgress(url) {
+    const type = determineType(url);
 
 }
 
