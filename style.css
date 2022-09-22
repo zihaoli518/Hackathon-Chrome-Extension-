@@ -1,0 +1,17 @@
+body > div.L3eUgb > div.o3j99.qarstb {
+    display: flex;
+    justify-content: center;
+}
+.mainDiv {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(154, 180, 254);
+    border-radius: 1rem;
+}
+
+.mainDiv a {
+    font-size: 18px;
+}
+
+.mainDiv h5 {
+    font-size: 11;
+}

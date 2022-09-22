@@ -1,0 +1,2514 @@
+// <?xml version="1.0" encoding="UTF-8"?>
+// <urlset
+//       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+//       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+//       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+//             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+// <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+const sitemap = `<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript</loc>
+  <lastmod>2022-09-22T00:52:22+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML</loc>
+  <lastmod>2022-09-22T00:52:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/CSS</loc>
+  <lastmod>2022-09-22T00:52:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>=
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTTP</loc>
+  <lastmod>2022-09-22T00:52:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/API</loc>
+  <lastmod>2022-09-22T00:53:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/Accessibility</loc>
+  <lastmod>2022-09-22T00:52:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction</loc>
+  <lastmod>2022-09-22T00:52:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_Types</loc>
+  <lastmod>2022-09-22T00:52:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling</loc>
+  <lastmod>2022-09-22T00:52:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration</loc>
+  <lastmod>2022-09-22T00:52:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions</loc>
+  <lastmod>2022-09-22T00:52:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators</loc>
+  <lastmod>2022-09-22T00:52:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Numbers_and_dates</loc>
+  <lastmod>2022-09-22T00:52:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Text_formatting</loc>
+  <lastmod>2022-09-22T00:52:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions</loc>
+  <lastmod>2022-09-22T00:52:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Indexed_collections</loc>
+  <lastmod>2022-09-22T00:52:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Keyed_collections</loc>
+  <lastmod>2022-09-22T00:52:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects</loc>
+  <lastmod>2022-09-22T00:52:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_Classes</loc>
+  <lastmod>2022-09-22T00:52:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises</loc>
+  <lastmod>2022-09-22T00:52:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_generators</loc>
+  <lastmod>2022-09-22T00:52:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Meta_programming</loc>
+  <lastmod>2022-09-22T00:52:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules</loc>
+  <lastmod>2022-09-22T00:52:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_overview</loc>
+  <lastmod>2022-09-22T00:52:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures</loc>
+  <lastmod>2022-09-22T00:52:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness</loc>
+  <lastmod>2022-09-22T00:52:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures</loc>
+  <lastmod>2022-09-22T00:52:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain</loc>
+  <lastmod>2022-09-22T00:52:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Typed_arrays</loc>
+  <lastmod>2022-09-22T00:52:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management</loc>
+  <lastmod>2022-09-22T00:52:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop</loc>
+  <lastmod>2022-09-22T00:52:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects</loc>
+  <lastmod>2022-09-22T00:52:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/AggregateError</loc>
+  <lastmod>2022-09-22T00:52:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array</loc>
+  <lastmod>2022-09-22T00:52:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer</loc>
+  <lastmod>2022-09-22T00:52:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/AsyncFunction</loc>
+  <lastmod>2022-09-22T00:52:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/AsyncGenerator</loc>
+  <lastmod>2022-09-22T00:52:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/AsyncGeneratorFunction</loc>
+  <lastmod>2022-09-22T00:52:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Atomics</loc>
+  <lastmod>2022-09-22T00:52:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt</loc>
+  <lastmod>2022-09-22T00:52:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt64Array</loc>
+  <lastmod>2022-09-22T00:52:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigUint64Array</loc>
+  <lastmod>2022-09-22T00:52:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean</loc>
+  <lastmod>2022-09-22T00:52:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView</loc>
+  <lastmod>2022-09-22T00:52:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date</loc>
+  <lastmod>2022-09-22T00:52:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/decodeURI</loc>
+  <lastmod>2022-09-22T00:52:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/decodeURIComponent</loc>
+  <lastmod>2022-09-22T00:52:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/encodeURI</loc>
+  <lastmod>2022-09-22T00:52:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/encodeURIComponent</loc>
+  <lastmod>2022-09-22T00:52:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error</loc>
+  <lastmod>2022-09-22T00:52:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/escape</loc>
+  <lastmod>2022-09-22T00:52:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/eval</loc>
+  <lastmod>2022-09-22T00:52:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError</loc>
+  <lastmod>2022-09-22T00:52:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/FinalizationRegistry</loc>
+  <lastmod>2022-09-22T00:52:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array</loc>
+  <lastmod>2022-09-22T00:52:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array</loc>
+  <lastmod>2022-09-22T00:52:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function</loc>
+  <lastmod>2022-09-22T00:52:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator</loc>
+  <lastmod>2022-09-22T00:52:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction</loc>
+  <lastmod>2022-09-22T00:52:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/globalThis</loc>
+  <lastmod>2022-09-22T00:52:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity</loc>
+  <lastmod>2022-09-22T00:52:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array</loc>
+  <lastmod>2022-09-22T00:52:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array</loc>
+  <lastmod>2022-09-22T00:52:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array</loc>
+  <lastmod>2022-09-22T00:52:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError</loc>
+  <lastmod>2022-09-22T00:52:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl</loc>
+  <lastmod>2022-09-22T00:52:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/isFinite</loc>
+  <lastmod>2022-09-22T00:52:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/isNaN</loc>
+  <lastmod>2022-09-22T00:52:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON</loc>
+  <lastmod>2022-09-22T00:52:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map</loc>
+  <lastmod>2022-09-22T00:52:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math</loc>
+  <lastmod>2022-09-22T00:52:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN</loc>
+  <lastmod>2022-09-22T00:52:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number</loc>
+  <lastmod>2022-09-22T00:52:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object</loc>
+  <lastmod>2022-09-22T00:52:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseFloat</loc>
+  <lastmod>2022-09-22T00:52:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt</loc>
+  <lastmod>2022-09-22T00:52:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise</loc>
+  <lastmod>2022-09-22T00:52:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy</loc>
+  <lastmod>2022-09-22T00:52:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError</loc>
+  <lastmod>2022-09-22T00:52:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError</loc>
+  <lastmod>2022-09-22T00:52:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect</loc>
+  <lastmod>2022-09-22T00:52:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp</loc>
+  <lastmod>2022-09-22T00:52:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set</loc>
+  <lastmod>2022-09-22T00:52:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SharedArrayBuffer</loc>
+  <lastmod>2022-09-22T00:52:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String</loc>
+  <lastmod>2022-09-22T00:52:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol</loc>
+  <lastmod>2022-09-22T00:52:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError</loc>
+  <lastmod>2022-09-22T00:52:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray</loc>
+  <lastmod>2022-09-22T00:52:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError</loc>
+  <lastmod>2022-09-22T00:52:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array</loc>
+  <lastmod>2022-09-22T00:52:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array</loc>
+  <lastmod>2022-09-22T00:52:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array</loc>
+  <lastmod>2022-09-22T00:52:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray</loc>
+  <lastmod>2022-09-22T00:52:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined</loc>
+  <lastmod>2022-09-22T00:52:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/unescape</loc>
+  <lastmod>2022-09-22T00:52:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError</loc>
+  <lastmod>2022-09-22T00:52:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap</loc>
+  <lastmod>2022-09-22T00:52:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakRef</loc>
+  <lastmod>2022-09-22T00:52:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet</loc>
+  <lastmod>2022-09-22T00:52:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Addition</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Addition_assignment</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Assignment</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/async_function</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/async_function*</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Bitwise_AND</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Bitwise_AND_assignment</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Bitwise_NOT</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Bitwise_OR</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Bitwise_OR_assignment</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Bitwise_XOR</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Bitwise_XOR_assignment</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/class</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Comma_Operator</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Decrement</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/delete</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Division</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Division_assignment</loc>
+  <lastmod>2022-09-22T00:52:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Equality</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Exponentiation</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Exponentiation_assignment</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/function</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/function*</loc>
+  <lastmod>2022-09-22T00:52:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Greater_than</loc>
+  <lastmod>2022-09-22T00:52:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Greater_than_or_equal</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Grouping</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/import</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/import.meta</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/in</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Increment</loc>
+  <lastmod>2022-09-22T00:52:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Inequality</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/instanceof</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Left_shift</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Left_shift_assignment</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Less_than</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Less_than_or_equal</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_AND</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_AND_assignment</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_NOT</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_nullish_assignment</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_OR</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_OR_assignment</loc>
+  <lastmod>2022-09-22T00:52:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Multiplication</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Multiplication_assignment</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/new</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/null</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing_operator</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Property_Accessors</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Remainder</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Remainder_assignment</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Right_shift</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Right_shift_assignment</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Strict_equality</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Strict_inequality</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Subtraction</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Subtraction_assignment</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/super</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Unary_negation</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Unary_plus</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Unsigned_right_shift</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Unsigned_right_shift_assignment</loc>
+  <lastmod>2022-09-22T00:52:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/void</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/yield</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/yield*</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function*</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/block</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/break</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/class</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/continue</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/debugger</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/do...while</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/Empty</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for-await...of</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/label</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/return</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/throw</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/with</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/get</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Method_definitions</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/set</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/Class_static_initialization_blocks</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/constructor</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/extends</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/Private_class_fields</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/Public_class_fields</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/static</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Already_has_pragma</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Array_sort_argument</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Bad_octal</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Bad_radix</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Bad_regexp_flag</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Bad_return_or_yield</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/BigInt_division_by_zero</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/BigInt_negative_exponent</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Called_on_incompatible_type</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Cant_access_lexical_declaration_before_init</loc>
+  <lastmod>2022-09-22T00:52:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Cant_assign_to_property</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Cant_be_converted_to_BigInt_because_it_isnt_an_integer</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Cant_convert_BigInt_to_number</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Cant_convert_x_to_BigInt</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Cant_define_property_object_not_extensible</loc>
+  <lastmod>2022-09-22T00:52:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Cant_delete</loc>
+  <lastmod>2022-09-22T00:52:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Cant_redefine_property</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Cant_use_nullish_coalescing_unparenthesized</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Cyclic_object_value</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Dead_object</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Delete_in_strict_mode</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Deprecated_caller_or_arguments_usage</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Deprecated_expression_closures</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Deprecated_octal</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Deprecated_source_map_pragma</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Deprecated_String_generics</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Deprecated_toLocaleFormat</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Equal_as_assign</loc>
+  <lastmod>2022-09-22T00:52:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Getter_only</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Hash_outside_class</loc>
+  <lastmod>2022-09-22T00:52:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Identifier_after_number</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Illegal_character</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/in_operator_no_object</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Invalid_array_length</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Invalid_assignment_left-hand_side</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Invalid_BigInt_syntax</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Invalid_const_assignment</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Invalid_date</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Invalid_for-in_initializer</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Invalid_for-of_initializer</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/invalid_right_hand_side_instanceof_operand</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/is_not_iterable</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/JSON_bad_parse</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Malformed_formal_parameter</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Malformed_URI</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Missing_bracket_after_list</loc>
+  <lastmod>2022-09-22T00:52:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Missing_colon_after_property_id</loc>
+  <lastmod>2022-09-22T00:52:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Missing_curly_after_function_body</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Missing_curly_after_property_list</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Missing_formal_parameter</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Missing_initializer_in_const</loc>
+  <lastmod>2022-09-22T00:52:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Missing_name_after_dot_operator</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Missing_parenthesis_after_argument_list</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Missing_parenthesis_after_condition</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Missing_semicolon_before_statement</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/More_arguments_needed</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Negative_repetition_count</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/No_non-null_object</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/No_properties</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/No_variable_name</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Non_configurable_array_element</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Not_a_codepoint</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Not_a_constructor</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Not_a_function</loc>
+  <lastmod>2022-09-22T00:52:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Not_defined</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Precision_range</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Property_access_denied</loc>
+  <lastmod>2022-09-22T00:52:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Read-only</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Redeclared_parameter</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Reduce_of_empty_array_with_no_initial_value</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Reserved_identifier</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Resulting_string_too_large</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Stmt_after_return</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Strict_Non_Simple_Params</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Too_much_recursion</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Undeclared_var</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Undefined_prop</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Unexpected_token</loc>
+  <lastmod>2022-09-22T00:52:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Unexpected_type</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Unnamed_function_statement</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Unparenthesized_unary_expr_lhs_exponentiation</loc>
+  <lastmod>2022-09-22T00:52:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Unterminated_string_literal</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_overview</loc>
+  <lastmod>2022-09-22T00:52:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar</loc>
+  <lastmod>2022-09-22T00:52:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Enumerability_and_ownership_of_properties</loc>
+  <lastmod>2022-09-22T00:52:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Iteration_protocols</loc>
+  <lastmod>2022-09-22T00:52:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode/Transitioning_to_strict_mode</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals</loc>
+  <lastmod>2022-09-22T00:52:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Trailing_commas</loc>
+  <lastmod>2022-09-22T00:52:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Deprecated_and_obsolete_features</loc>
+  <lastmod>2022-09-22T00:52:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/About_JavaScript</loc>
+  <lastmod>2022-09-22T00:52:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide</loc>
+  <lastmod>2022-09-22T00:52:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Overview</loc>
+  <lastmod>2022-09-22T00:52:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/is</loc>
+  <lastmod>2022-09-22T00:52:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/JavaScript/contributors.txt</loc>
+  <lastmod>2021-08-26T07:06:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Reference</loc>
+  <lastmod>2022-09-22T00:52:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/abbr</loc>
+  <lastmod>2022-09-22T00:52:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/acronym</loc>
+  <lastmod>2022-09-22T00:52:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/address</loc>
+  <lastmod>2022-09-22T00:52:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/applet</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/area</loc>
+  <lastmod>2022-09-22T00:52:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/aside</loc>
+  <lastmod>2022-09-22T00:52:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/b</loc>
+  <lastmod>2022-09-22T00:52:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base</loc>
+  <lastmod>2022-09-22T00:52:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/bdi</loc>
+  <lastmod>2022-09-22T00:52:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/bdo</loc>
+  <lastmod>2022-09-22T00:52:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/bgsound</loc>
+  <lastmod>2022-09-22T00:52:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/big</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blink</loc>
+  <lastmod>2022-09-22T00:52:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blockquote</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/body</loc>
+  <lastmod>2022-09-22T00:52:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/br</loc>
+  <lastmod>2022-09-22T00:52:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button</loc>
+  <lastmod>2022-09-22T00:52:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/canvas</loc>
+  <lastmod>2022-09-22T00:52:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/caption</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/center</loc>
+  <lastmod>2022-09-22T00:52:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/cite</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/code</loc>
+  <lastmod>2022-09-22T00:52:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/col</loc>
+  <lastmod>2022-09-22T00:52:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/colgroup</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/content</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/data</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/datalist</loc>
+  <lastmod>2022-09-22T00:52:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dd</loc>
+  <lastmod>2022-09-22T00:52:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/del</loc>
+  <lastmod>2022-09-22T00:52:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details</loc>
+  <lastmod>2022-09-22T00:52:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dfn</loc>
+  <lastmod>2022-09-22T00:52:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog</loc>
+  <lastmod>2022-09-22T00:52:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dir</loc>
+  <lastmod>2022-09-22T00:52:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div</loc>
+  <lastmod>2022-09-22T00:52:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dl</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dt</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/em</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/embed</loc>
+  <lastmod>2022-09-22T00:52:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/fieldset</loc>
+  <lastmod>2022-09-22T00:52:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figcaption</loc>
+  <lastmod>2022-09-22T00:52:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure</loc>
+  <lastmod>2022-09-22T00:52:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/font</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer</loc>
+  <lastmod>2022-09-22T00:52:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form</loc>
+  <lastmod>2022-09-22T00:52:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/frame</loc>
+  <lastmod>2022-09-22T00:52:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/frameset</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/head</loc>
+  <lastmod>2022-09-22T00:52:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header</loc>
+  <lastmod>2022-09-22T00:52:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements</loc>
+  <lastmod>2022-09-22T00:52:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/hgroup</loc>
+  <lastmod>2022-09-22T00:52:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/hr</loc>
+  <lastmod>2022-09-22T00:52:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/html</loc>
+  <lastmod>2022-09-22T00:52:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/i</loc>
+  <lastmod>2022-09-22T00:52:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/image</loc>
+  <lastmod>2022-09-22T00:52:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ins</loc>
+  <lastmod>2022-09-22T00:52:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/kbd</loc>
+  <lastmod>2022-09-22T00:52:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/keygen</loc>
+  <lastmod>2022-09-22T00:52:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/legend</loc>
+  <lastmod>2022-09-22T00:52:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li</loc>
+  <lastmod>2022-09-22T00:52:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link</loc>
+  <lastmod>2022-09-22T00:52:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/main</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/map</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/mark</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/marquee</loc>
+  <lastmod>2022-09-22T00:52:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/menu</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/menuitem</loc>
+  <lastmod>2022-09-22T00:52:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta</loc>
+  <lastmod>2022-09-22T00:52:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meter</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nobr</loc>
+  <lastmod>2022-09-22T00:52:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/noembed</loc>
+  <lastmod>2022-09-22T00:52:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/noframes</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/noscript</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/object</loc>
+  <lastmod>2022-09-22T00:52:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol</loc>
+  <lastmod>2022-09-22T00:52:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/optgroup</loc>
+  <lastmod>2022-09-22T00:52:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/option</loc>
+  <lastmod>2022-09-22T00:52:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/output</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p</loc>
+  <lastmod>2022-09-22T00:52:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/param</loc>
+  <lastmod>2022-09-22T00:52:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture</loc>
+  <lastmod>2022-09-22T00:52:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/plaintext</loc>
+  <lastmod>2022-09-22T00:52:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/portal</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/pre</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/progress</loc>
+  <lastmod>2022-09-22T00:52:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/q</loc>
+  <lastmod>2022-09-22T00:52:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/rb</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/rp</loc>
+  <lastmod>2022-09-22T00:52:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/rt</loc>
+  <lastmod>2022-09-22T00:52:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/rtc</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ruby</loc>
+  <lastmod>2022-09-22T00:52:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/s</loc>
+  <lastmod>2022-09-22T00:52:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/samp</loc>
+  <lastmod>2022-09-22T00:52:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section</loc>
+  <lastmod>2022-09-22T00:52:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select</loc>
+  <lastmod>2022-09-22T00:52:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/shadow</loc>
+  <lastmod>2022-09-22T00:52:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/slot</loc>
+  <lastmod>2022-09-22T00:52:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/small</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/source</loc>
+  <lastmod>2022-09-22T00:52:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/spacer</loc>
+  <lastmod>2022-09-22T00:52:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/span</loc>
+  <lastmod>2022-09-22T00:52:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strike</loc>
+  <lastmod>2022-09-22T00:52:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong</loc>
+  <lastmod>2022-09-22T00:52:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/style</loc>
+  <lastmod>2022-09-22T00:52:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/sub</loc>
+  <lastmod>2022-09-22T00:52:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/summary</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/sup</loc>
+  <lastmod>2022-09-22T00:52:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tbody</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/td</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template</loc>
+  <lastmod>2022-09-22T00:52:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/textarea</loc>
+  <lastmod>2022-09-22T00:52:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tfoot</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/th</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/thead</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time</loc>
+  <lastmod>2022-09-22T00:52:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/title</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tr</loc>
+  <lastmod>2022-09-22T00:52:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/track</loc>
+  <lastmod>2022-09-22T00:52:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tt</loc>
+  <lastmod>2022-09-22T00:52:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/u</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul</loc>
+  <lastmod>2022-09-22T00:52:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/var</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video</loc>
+  <lastmod>2022-09-22T00:52:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/wbr</loc>
+  <lastmod>2022-09-22T00:52:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/xmp</loc>
+  <lastmod>2022-09-22T00:52:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/accesskey</loc>
+  <lastmod>2022-09-22T00:52:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/autocapitalize</loc>
+  <lastmod>2022-09-22T00:52:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/autofocus</loc>
+  <lastmod>2022-09-22T00:52:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/class</loc>
+  <lastmod>2022-09-22T00:52:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/contenteditable</loc>
+  <lastmod>2022-09-22T00:52:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/contextmenu</loc>
+  <lastmod>2022-09-22T00:52:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/data-*</loc>
+  <lastmod>2022-09-22T00:52:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/dir</loc>
+  <lastmod>2022-09-22T00:52:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/draggable</loc>
+  <lastmod>2022-09-22T00:52:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/enterkeyhint</loc>
+  <lastmod>2022-09-22T00:52:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/exportparts</loc>
+  <lastmod>2022-09-22T00:52:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/hidden</loc>
+  <lastmod>2022-09-22T00:52:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/id</loc>
+  <lastmod>2022-09-22T00:52:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/inputmode</loc>
+  <lastmod>2022-09-22T00:52:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/is</loc>
+  <lastmod>2022-09-22T00:52:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/itemid</loc>
+  <lastmod>2022-09-22T00:52:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/itemprop</loc>
+  <lastmod>2022-09-22T00:52:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/itemref</loc>
+  <lastmod>2022-09-22T00:52:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/itemscope</loc>
+  <lastmod>2022-09-22T00:52:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/itemtype</loc>
+  <lastmod>2022-09-22T00:52:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/lang</loc>
+  <lastmod>2022-09-22T00:52:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/nonce</loc>
+  <lastmod>2022-09-22T00:52:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/part</loc>
+  <lastmod>2022-09-22T00:52:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/slot</loc>
+  <lastmod>2022-09-22T00:52:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/spellcheck</loc>
+  <lastmod>2022-09-22T00:52:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/style</loc>
+  <lastmod>2022-09-22T00:52:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/tabindex</loc>
+  <lastmod>2022-09-22T00:52:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/title</loc>
+  <lastmod>2022-09-22T00:52:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/translate</loc>
+  <lastmod>2022-09-22T00:52:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/x-ms-acceleratorkey</loc>
+  <lastmod>2022-09-22T00:52:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/x-ms-format-detection</loc>
+  <lastmod>2022-09-22T00:52:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/button</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/checkbox</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/color</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/date</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/datetime-local</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/email</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/file</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/hidden</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/image</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/month</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/number</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/password</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/radio</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/range</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/reset</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/search</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/submit</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/tel</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>≈</loc>
+  <lastmod>2022-09-22T00:52:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>`
+
+// export default sitemap;
