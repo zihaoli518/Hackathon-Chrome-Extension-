@@ -14,13 +14,25 @@ for (let i=0; i<numberOfArticles; i++) {
 const mainDiv = document.createElement('div');
 mainDiv.classList.add("mainDiv")
 const titleForMainDiv = document.createElement('h1');
-titleForMainDiv.innerText = "Here's your daily dose of random MDN articles: "
+titleForMainDiv.innerText = "Today's MDN"
 mainDiv.append(titleForMainDiv);
-const targetDiv = document.querySelector("body > div.L3eUgb > div.o3j99.qarstb");
-targetDiv.append(mainDiv);
+
+// progress tracker 
+const progressTrackerDiv = document.createElement('div'); 
+progressTrackerDiv.classList.add('progressTrackerDiv');
+
+const titleForProgressTrackerDiv = document.createElement('h1');
+titleForProgressTrackerDiv.innerText = "Your Progress: "
+
+// appending the 2 divs we created 
+const targetDivMain = document.querySelector("body > div.L3eUgb > div.o3j99.qarstb");
+targetDivMain.append(mainDiv);
+
+const targetDivProgress = document.querySelector("body > div.L3eUgb > div.o3j99.ikrT4e.om7nvf")
 
 
 
+// functions 
 function runBrowserCode(url, titleText, description) {
     console.log('inside runBrowserCode with url:' + url)
     const articleDiv = document.createElement('div');
@@ -32,11 +44,17 @@ function runBrowserCode(url, titleText, description) {
     title.innerText = titleText;
     title.setAttribute("href", url);
     titleDiv.append(title);
+    // add event listener 
+    title.onclick = updateProgress(url);
     
     const snippetDiv = document.createElement('div');
     snippetDiv.classList.add('snippetDiv');
     const snippet = document.createElement('h2');
-    snippet.innerHTML = description.innerText;
+    snippet.innerText = (description.innerText).toString();
+    // cut the length of snippet if too long 
+    if (snippet.innerText.length>300) {
+        snippet.innerText = snippet.innerText.substring(0, 300)
+    }
     snippetDiv.append(snippet);
     
     const urlDiv = document.createElement('div');
@@ -114,9 +132,9 @@ function getDescription(doc)
 
 // "https://cors-anywhere-drewdunne.herokuapp.com/"
 
-
-
-
+function updateProgress(url) {
+    
+}
 
 
 

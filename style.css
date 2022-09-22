@@ -11,10 +11,11 @@ body > div.L3eUgb > div.o3j99.qarstb {
 }
 
 .mainDiv h1 {
+    margin-top: 20px;
     text-align: center;
 }
 
-.mainDiv a {
+.mainDiv a {    
     font-weight: 600;
     margin-top: 5px;
     margin-left: 10px;
@@ -36,4 +37,5 @@ body > div.L3eUgb > div.o3j99.qarstb {
     border-radius: 1rem;
     margin-left: 5%;
     margin-top: 10px;
+    white-space: normal;
 }
