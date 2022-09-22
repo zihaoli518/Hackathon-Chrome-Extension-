@@ -5,13 +5,27 @@
 // getRandomUrl();
 console.log("I ran!");
 
-fetchSiteDetails(getRandomUrl());
+const numberOfArticles = 3;
+for (let i=0; i<numberOfArticles; i++) {
+    fetchSiteDetails(getRandomUrl())
+}
+
+// moved main div outside our function so we can populate it with multiple articles 
+const mainDiv = document.createElement('div');
+mainDiv.classList.add("mainDiv")
+const titleForMainDiv = document.createElement('h1');
+titleForMainDiv.innerText = "Here's your daily dose of random MDN articles: "
+mainDiv.append(titleForMainDiv);
+const targetDiv = document.querySelector("body > div.L3eUgb > div.o3j99.qarstb");
+targetDiv.append(mainDiv);
+
+
 
 function runBrowserCode(url, titleText, description) {
     console.log('inside runBrowserCode with url:' + url)
-    const mainDiv = document.createElement('div');
-    mainDiv.classList.add("mainDiv")
-    
+    const articleDiv = document.createElement('div');
+    articleDiv.classList.add("articleDiv")
+
     const titleDiv = document.createElement('div');
     titleDiv.classList.add('titleDiv');
     const title = document.createElement('a');
@@ -26,15 +40,13 @@ function runBrowserCode(url, titleText, description) {
     snippetDiv.append(snippet);
     
     const urlDiv = document.createElement('div');
-    urlDiv.classList.add('urlDiv');
-    const urlContent = document.createElement('h5');
-    urlContent.innerHTML = url;
-    urlDiv.append(urlContent)
+    // urlDiv.classList.add('urlDiv');
+    // const urlContent = document.createElement('h5');
+    // urlContent.innerHTML = url;
+    // urlDiv.append(urlContent)
     
-    mainDiv.append(titleDiv, snippetDiv, urlDiv);
-    
-    const targetDiv = document.querySelector("body > div.L3eUgb > div.o3j99.qarstb");
-    targetDiv.append(mainDiv);
+    articleDiv.append(titleDiv, snippetDiv, urlDiv);
+    mainDiv.append(articleDiv)
 }
 
 function getUrlsFromSitemap() 

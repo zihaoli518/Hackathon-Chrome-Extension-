@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/zihaoli518/Hackathon-Chrome-Extension-#readme",
   "dependencies": {
+    "concurrent": "^0.3.2",
     "node-fetch": "^3.2.10"
   }
 }
