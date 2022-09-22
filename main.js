@@ -32,7 +32,7 @@ function runBrowserCode(url, titleText, description) {
     title.innerText = titleText;
     title.setAttribute("href", url);
     titleDiv.append(title);
-
+    
     const snippetDiv = document.createElement('div');
     snippetDiv.classList.add('snippetDiv');
     const snippet = document.createElement('h2');
