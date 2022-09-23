@@ -4,6 +4,14 @@
 // runBrowserCode();
 // getRandomUrl();
 console.log("I ran!");
+// setting initial state for progress
+if (localStorage.getItem("HTML") === null) {
+    console.log('setting local storage')
+    localStorage.setItem('HTML', 0);
+    localStorage.setItem('CSS', 0);
+    localStorage.setItem('Javascript', 0);
+}
+
 
 // moved main div outside our function so we can populate it with multiple articles 
 const mainDiv = document.createElement('div');
@@ -52,8 +60,8 @@ targetDivMain.append(mainDiv);
 const targetDivProgress = document.querySelector("body > div.L3eUgb > div.o3j99.ikrT4e.om7nvf")
 targetDivProgress.append(progressTrackerDiv);
 
-
 // render articles!! 
+// take user input?  
 
 const numberOfArticles = 3;
 for (let i=0; i<numberOfArticles; i++) {
@@ -76,11 +84,12 @@ function runBrowserCode(url, titleText, description) {
 // 
     // When a MDN link is click, trigger updateProgress function
     // title.addEventListener("click", updateProgress(url))
-    articleDiv.addEventListener("click", updateProgress(url))
+    title.addEventListener("click", function() {updateProgress(url)})
+    
     
     const snippetDiv = document.createElement('div');
     snippetDiv.classList.add('snippetDiv');
-    const snippet = document.createElement('h2');
+    const snippet = document.createElement('p');
     let descriptionText = (description.innerText).toString().replace(/[\r\n]/gm, '');
     while (descriptionText.charCodeAt(0)<65 || descriptionText.charCodeAt(0)>90) {
         descriptionText = descriptionText.slice(1)
@@ -185,10 +194,6 @@ function determineType(url) {
       }
 }
 
-// setting initial state for progress
-localStorage.setItem('HTML', 0);
-localStorage.setItem('CSS', 0);
-localStorage.setItem('Javascript', 0);
 
 function updateProgress(url) {
     const type = determineType(url);
